@@ -1,4 +1,4 @@
-# Shell Bootcamp
+# Shell Onboarding Technical Bootcamp
 
 This repository contains my notes, exercises, Jupyter notebooks, and hands-on assignments completed during a technical bootcamp at Shell.
 
